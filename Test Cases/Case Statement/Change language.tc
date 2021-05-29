@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change language</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ceb37f7-cec9-4a94-b563-02d47693794d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>151c4479-7d73-4228-aada-03dfb11f29cb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77ecf4e2-d61e-470e-a9f6-bcf6e9ea0bba</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f5053db-c872-4bdc-95f3-06f1ef23d3d4</id>
+      <masked>false</masked>
+      <name>language</name>
+   </variable>
+</TestCaseEntity>

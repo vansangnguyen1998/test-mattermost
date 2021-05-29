@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change header purpose</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89107879-4d9f-470d-8e8a-5ac4a99d581c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59de8d5c-6707-4abf-9c77-e749c79f8403</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f67d7ba5-cecf-4870-be40-edfb0f6fe6cc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

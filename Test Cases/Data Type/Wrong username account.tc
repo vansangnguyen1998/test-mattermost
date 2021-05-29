@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wrong username account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e9576c2-e244-410b-a33b-83d76a1c04b8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d6b237b-6856-4342-8d82-ed438cef3c03</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

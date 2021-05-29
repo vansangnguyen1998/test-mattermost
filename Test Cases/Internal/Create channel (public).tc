@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create channel (public)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af19f8c3-5975-4214-8d9b-3eed9e6e8319</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c05d9ca-2240-43af-832b-c6c2d05911e3</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

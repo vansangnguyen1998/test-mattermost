@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Spam message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c726e5b-ece7-4557-84fb-cf3146304d8a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97d42567-95be-46fd-88ab-0b58e3fbd450</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8646537-a486-49df-85e1-80fc9e30b232</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

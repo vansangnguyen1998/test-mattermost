@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca78efb7-d9d7-46e4-a623-c193ae2c6611</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47e21af5-10d2-45de-bcca-47b209b79a5a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5d924bb-5035-44c2-9506-30ab613bef1c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>034a3ecc-82b1-4f35-8bae-e64203378c4c</id>
+      <masked>false</masked>
+      <name>search_term</name>
+   </variable>
+</TestCaseEntity>

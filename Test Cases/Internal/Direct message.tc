@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Direct message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9e4850a-1468-4830-a2e0-f04cd93fe046</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e004d982-0b21-4a96-b51f-a648021dc290</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25796695-2fe4-49fc-a038-eccddeb89c28</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a30122f4-234e-4b0b-8ffb-8bd05a27576e</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

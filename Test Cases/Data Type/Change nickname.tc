@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change nickname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>205217f4-de31-41b4-aec1-cc26cbce860e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff4cefe9-226d-4c63-8657-379e51e43e40</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebb31dfd-9b23-4434-a891-7ee79b7ee9f3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f62a82f-3afc-437e-b8d9-9fa67c06943d</id>
+      <masked>false</masked>
+      <name>nickname</name>
+   </variable>
+</TestCaseEntity>

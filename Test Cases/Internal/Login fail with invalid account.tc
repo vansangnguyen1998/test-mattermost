@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login fail with invalid account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98646942-7164-4875-94a2-44753a9c4a13</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b135aee-2edc-44a5-ad81-5f8cb3a86de2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>052e2a2c-f7a5-4d83-bf6a-fc70a5004035</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

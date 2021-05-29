@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit channel purpose</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dc52b6d-c0f6-48ea-a0a8-7caf4b1d4bd3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22a00e13-fa78-4acd-bf25-0570408f72d0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9522768b-c7c0-496f-bd8d-8c8a36177773</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

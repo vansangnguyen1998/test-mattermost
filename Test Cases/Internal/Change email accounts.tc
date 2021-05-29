@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change email accounts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9c161de-fafd-4932-815c-555373a28321</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>72654f70-129f-440d-b184-5a6a532e72f0</id>
+      <masked>false</masked>
+      <name>newemail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>641bc751-d6ae-4b0e-8e42-08b91b3d10bd</id>
+      <masked>false</masked>
+      <name>confirmemail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd94e76e-df07-4f23-b60a-026b7f8a9b75</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad83226d-bc2c-42ec-8463-eb771c3fc21d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ec309b9-eae5-455e-870c-0cb0b181385b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5838a3c-04c5-4cfb-9ab9-f0eea06bc7b3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08cd727f-2086-4c30-806c-765d047fac9d</id>
+      <masked>false</masked>
+      <name>newpost</name>
+   </variable>
+</TestCaseEntity>

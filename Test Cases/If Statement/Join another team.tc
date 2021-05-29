@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Join another team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5e684e2-96ea-4e3f-8340-38fb98e86dff</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18554ee0-0d84-426f-ae8d-30c96058a7b1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4176ccb4-3f60-46f7-8f23-786446ca2596</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

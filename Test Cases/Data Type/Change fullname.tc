@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change fullname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfecdc1c-1173-46c3-972c-e3085d3178a6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9c2ed80-e2e8-499a-9109-b9602b3351e5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>614c70b4-ab38-4ce1-ad02-e3c35d6cba06</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39c68359-ae4f-4ba3-ade9-9937ee5380a8</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+</TestCaseEntity>

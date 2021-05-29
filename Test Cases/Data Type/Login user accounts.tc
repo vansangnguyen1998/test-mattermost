@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login user accounts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddfba1d6-79b5-46f3-b4f7-75db7e826f8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c713999-ae3b-47b6-b11b-91edfe537765</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2110bb5a-a635-4474-960b-85e6b8bc644f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

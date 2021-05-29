@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>InternalData_UserAccount</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3d45293c-4a94-4670-bd48-8cc824f24f34</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>abc 5Ed5CIkj9UQfaMZXAkDVaQ%3D%3D abcd1234 TeamA Hello %E7%8A%AC%E5%A4%9C%E5%8F%89 null Hello%2C+I+am+Ngan+Khanh+and+I+would+like+to+meet+you.+What+time+is+going+to+be+ok+with+you%3F+ mUBzPHijjO8%2B8LExPuh3ow%3D%3D abc%40gmail.com GQGABEG0LV</data>
+   <data>user-1 MZgS3bkacIma%2BdCTaK%2FmaA%3D%3D SampleUs%40r-1 Delta How+are+you%3F Sengoku+Otogiz%C5%8Dshi+Inuyasha null Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ng%C3%A2n+Kh%C3%A1nh+v%C3%A0+t%C3%B4i+mu%E1%BB%91n+g%E1%BA%B7p+b%E1%BA%A1n.+Th%E1%BB%9Di+gian+n%C3%A0o+s%E1%BA%BD+%E1%BB%95n+v%E1%BB%9Bi+b%E1%BA%A1n%3F mUBzPHijjO8%2B8LExPuh3ow%3D%3D user-1%40gmail.com GQGABEG0LV</data>
+   <data>abcd 5Ed5CIkj9URTaTZUEOxAiQ%3D%3D abcd123456 Long+Legs+Ladies I%27m+fine+%40abc November+13%2C+1996 null Bonjour%2C+je+suis+Ngan+Khanh+et+j%27aimerais+vous+rencontrer.+%C3%80+quelle+heure+%C3%A7a+va+vous+convenir%3F mUBzPHijjO8%2B8LExPuh3ow%3D%3D abcd%40gmail.com GQGABEG0LV</data>
+   <data>hoangnguyen X3%2BBISe%2BmZsi9LbjuUIPmA%3D%3D hoangnguyen%2B1 Cookolic I%27ll+be+away+for+a+while Sunrise null %EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Ngan+Khanh%EC%9E%85%EB%8B%88%EB%8B%A4.+%EB%A7%8C%EB%82%98+you%EA%B8%B0%EB%A5%BC+%EC%9B%90%ED%95%A9%EB%8B%88%EB%8B%A4.+%EB%AA%87%EC%8B%9C%EC%97%90+%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94%3F mUBzPHijjO8%2B8LExPuh3ow%3D%3D hoangnguyen%40gmail.com GQGABEG0LV</data>
+   <data>hoanganh 9USXa8vKusJ1aVQ4il%2Fwow%3D%3D hoang123456 Volunteer Where+do+you+go+to%3F Toonami+ null %E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AFNgan+Khanh%E3%81%A7%E3%81%99%E3%80%82%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82%E4%BD%95%E6%99%82%E3%81%AB%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F mUBzPHijjO8%2B8LExPuh3ow%3D%3D hoanganh%40gmail.com GQGABEG0LV</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>username</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>pwd_o</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>new_team</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>newpost</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>search_term</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>anotherteam</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>message</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>new_password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>9</columnIndex>
+      <name>new_email</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>10</columnIndex>
+      <name>new_pwd_o</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

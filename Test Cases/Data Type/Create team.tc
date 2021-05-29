@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2867c8c-c7d4-4b02-a067-42de4cd2dac4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eed1def5-9e66-4ecd-a23e-f0f4d1c26680</id>
+      <masked>false</masked>
+      <name>namegroup</name>
+   </variable>
+</TestCaseEntity>

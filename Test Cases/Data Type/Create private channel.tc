@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create private channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a269649-6299-4ef5-ab76-2dc0130cc509</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>143fe47e-e3c1-4f9f-b7f8-aef5df358512</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8fbae369-9a7b-41dd-8f1c-8f3abe2e20ad</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>049d1f87-f58d-4d4b-bea5-3d91c871bc7f</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login n times</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2e36cd5-98fd-4c43-8e41-697ee6c018c7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6db503e1-b571-42b8-8ab6-ab50447275a9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d00e4df8-023e-41fb-acb6-ddc84075a5e5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
