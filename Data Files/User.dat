@@ -8,17 +8,19 @@
    <dataFileGUID>7fa0422d-c3d2-45b9-a8c1-452e7b9cfe1a</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>user-1 SampleUs%40r-1</data>
-   <data>abcded test</data>
+   <data>sang517119 sang517119</data>
+   <data>trinhnhatsinh sinh123456</data>
+   <data>vinhphat phat123456</data>
+   <data>Nhat1998 17021998nhat</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>password</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
