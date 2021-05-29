@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>span_ (4)</name>
    <tag></tag>
-   <elementGuidId>b73f4c4b-d138-48dd-a3bc-6dabf82eb28a</elementGuidId>
+   <elementGuidId>9a884cb6-ae08-4356-b97a-22ddb4cd6a86</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -85,26 +85,5 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button/span</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='moreDmModal']/div/div/div/button/span</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='>quote'])[1]/following::span[3]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direct Messages'])[1]/preceding::span[2]</value>
    </webElementXpaths>
 </WebElementEntity>
